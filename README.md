@@ -27,22 +27,6 @@ BERT QA-Based Span Extraction
 
 This project compares traditional ML, deep learning, and rule-based methods in a unified pipeline.
 
-**Repository Structure**
-Propaganda-Detection-NLP/
-│
-├── data/
-│   ├── train.tsv
-│   ├── val.tsv
-│
-├── notebooks/
-│   └── propaganda_detection.ipynb
-│
-├── reports/
-│   └── NLP_REPORT.pdf
-│
-├── README.md
-└── requirements.txt  (to be added)
-
 **Models Implemented**
 | Model                        | Accuracy  | Macro F1 |
 | ---------------------------- | --------- | -------- |
